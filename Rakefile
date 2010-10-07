@@ -1,3 +1,4 @@
+
 require "spec"
 require "spec/rake/spectask"
 require 'lib/typhoeus.rb'
